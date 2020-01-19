@@ -1,0 +1,17 @@
+.form-container{
+    position: absolute;
+    top: 25vh;
+    background: #fff;
+    padding: 3rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 white;
+}
+
+.bg{
+    background: url('../images/bg_img.jpg') no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    opacity: 0.8;
+
+}
