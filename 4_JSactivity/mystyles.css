@@ -1,0 +1,9 @@
+body{
+    background-color: cadetblue;
+    margin: auto;
+    margin-top: 2em;
+    width: 50%;
+    border: 3px solid burlywood;
+    padding: 10px;
+    font-size: large;
+}
